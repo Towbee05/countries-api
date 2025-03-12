@@ -6,4 +6,6 @@
 - Got help from [@john-smilga express course](https://github.com/john-smilga/node-express-course)
 
 ### Links
-- 
+- [Fetch all countries](https://countries-api-mvj8.onrender.com/api/v1/countries)
+- [Fetch all countries but does not change](https://countries-api-mvj8.onrender.com/api/v1/countries/static)
+- [Fetch the soecified id](https://countries-api-mvj8.onrender.com/api/v1/countries/id)
